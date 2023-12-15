@@ -11,14 +11,9 @@ Flashcard Generator
 Flashcard Generator is a web application that allows users to create, manage, and share custom flashcards. It provides an intuitive interface and a comprehensive set of features to enhance the learning process.
 
 <h2 align='center'>
-<a href='https://generator-flashcard.vercel.app/' target="_blank">Demo</a>
+<a href='https://flash-card-generator-theta.vercel.app/' target="_blank">Demo</a>
 </h2>
 
-<p align="center">  
-  <a href="https://opensource.org/licenses/MIT">
-      <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  </a>
-</p>
 
 ## Table of Contents
 
@@ -26,7 +21,6 @@ Flashcard Generator is a web application that allows users to create, manage, an
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Feedback](#feedback)
-- [Contributors](#contributors)
 - [Build Process](#build-process)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -37,7 +31,7 @@ Flashcard Generator is a web application that allows users to create, manage, an
 Flashcard-generator is a powerful flashcard generator app designed to supercharge your learning process. With it's beginner friendly interface you can create and orgnize your flashcards very easily. Whether you're preparing for exams, learning new languages, or enhancing your knowledge in any subject, Flashcard-generator helps you retain information effectively and boost your learning potential.
 
 
-![flashcard-generator](https://github.com/lokeshkavisth/Flashcard-Generator/assets/104786100/51561cf8-1d81-41eb-8c71-c6fc37e2391e)
+![flashcard-generator](https://youtu.be/572Cn100qzU)
 
 
 
@@ -65,26 +59,8 @@ Flashcard Generator is built using the following technologies:
 
 ## Feedback
 
-Feel free to send us feedback on [GitHub](https://github.com/lokeshkavisth) or [file an issue](https://github.com/lokeshkavisth/Flashcard-Generator/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send us feedback on [GitHub](https://github.com/lokeshkavisth) or [file an issue](https://github.com/ashaduzzaman2002/flash-card-generator). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-## Contributors
-
-This project follows the [all-contributors](https://github.com/lokeshkavisth/Flashcard-Generator) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-1. Shrikrishna Patil
-[GitHub](https://github.com/Patil-Shrikrishna) |
-[LinkedIn](https://www.linkedin.com/in/shrikrishna-patil-1b9101239/) |
-[YouTube](https://www.youtube.com/@krishnapatil03)
-
-2. Sneta Gupta
-[GitHub](https://github.com/snetagupta) |
-[LinkedIn](https://www.linkedin.com/in/sneta-gupta-3062b4155/) |
-[YouTube](https://www.youtube.com/@Snetagupta)
-
-3. Akhilesh Maurya
-[GitHub](https://github.com/akhilesh365) |
-[LinkedIn](https://www.linkedin.com/in/akhilesh-maurya-985078161/) |
-[YouTube](https://youtube.com/@akhileshmaurya2287)
 
 ## Build Process
 
@@ -92,7 +68,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lokeshkavisth/Flashcard-Generator.git
+$ git clone https://github.com/ashaduzzaman2002/flash-card-generator
 
 # Go into the repository
 $ cd Flashcard-Generator
@@ -104,9 +80,6 @@ $ npm install
 $ npm start
 ```
 
-## License
-
-Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
 
 ## Acknowledgements
 
@@ -114,6 +87,6 @@ We would like to thank the contributors to this project for their valuable contr
 
 ## Contact
 
-For any inquiries or support, please contact us at [GitHub](https://twitter.com/lokeshkavisth)
+For any inquiries or support, please contact us at [GitHub](https://github.com/ashaduzzaman2002/flash-card-generator)
 
 ---
